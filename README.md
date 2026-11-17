@@ -33,75 +33,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Identity and Access Management (IAM) and Identity Threat Detection & Response (ITDR) market is valued at approximately **$25B to $30B** (with the specialized ITDR & identity resilience segment scaling rapidly from ~$6B to $13B+ at >20% CAGR). The sector is **moderately fragmented**: hyper-scale platform providers (such as Microsoft, Palo Alto Networks, and CrowdStrike) dominate consolidated enterprise security suites, while a dynamic ecosystem of specialized pure-play vendors (such as Semperis, Silverfort, Quest, and Druva) fiercely contest hybrid Active Directory defense, forest recovery, and cross-cloud identity governance.
 
 ## SaaS/Hosted Platforms
 
-- **[Druva Identity Workloads Protection](https://www.druva.com/)**  
-
-  Data protection capabilities focused on identity-related workloads and cloud identity resilience within the Druva platform.
-
-
-
-- **[CrowdStrike Falcon Identity Protection](https://www.crowdstrike.com/)**  
-
-  Identity threat detection and response module within the Falcon platform that monitors Active Directory and Entra ID for credential-based attacks.
-
-
-
-- **[SentinelOne Singularity Identity](https://www.sentinelone.com/)**  
-
-  Identity protection capabilities integrated into the Singularity platform for detecting and responding to identity threats.
-
-
-
-- **[Microsoft Defender for Identity](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity)**  
-
-  Cloud-based security solution that monitors on-premises Active Directory and hybrid identity signals for suspicious activity.
-
-
-
-- **[Semperis Directory Services Protector (DSP) / Identity Resilience](https://www.semperis.com/)**  
-
-  Specialized platform for Active Directory threat detection, change monitoring, and forest recovery after identity-based attacks.
-
-
-
-- **[Silverfort Unified Identity Protection](https://www.silverfort.com/)**  
-
-  Agentless identity protection platform that secures legacy and modern authentication protocols across hybrid environments.
-
-
-
-- **[Tenable Identity Exposure (formerly Tenable.ad)](https://www.tenable.com/)**  
-
-  Identity security solution focused on discovering attack paths, misconfigurations, and exposures in Active Directory and Entra ID.
-
-
-
-- **[Palo Alto Cortex XDR Identity](https://www.paloaltonetworks.com/)**  
-
-  Identity-related detection and response capabilities within the Cortex XDR platform.
-
-
-
-- **[Quest On Demand Recovery](https://www.quest.com/)**  
-
-  Cloud-based recovery solution for Microsoft Entra ID, hybrid identity, and related workloads.
-
-
-
-- **[Authomize](https://www.authomize.com/)** / **[Zscaler ITDR](https://www.zscaler.com/)**  
-
-  Identity threat detection, posture management, and access governance platforms focused on reducing identity risk.
+| Platform | Description | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Defender for Identity](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity)** | Cloud-based security solution that monitors on-premises Active Directory and hybrid identity signals for suspicious activity. | ~$3.85T+ Market Cap (~$245B+ Annual Revenue) | ~$5.50/user/month (annual commitment, list price); ~$6.60/user/month (month-to-month); also bundled in EMS E5 / M365 E5 Security | 30-day to 90-day free evaluation trial (available via Microsoft Defender admin portal) |
+| **[Palo Alto Cortex XDR Identity](https://www.paloaltonetworks.com/)** | Identity-related detection and response capabilities integrated within the Cortex XDR platform. | ~$240B+ Market Cap (~$8B+ Annual Revenue) | Starting at ~$70.00/endpoint/year (~$5.83/endpoint/month, G-Cloud list); negotiable enterprise pricing ~$25–$45/endpoint/year | 30-day to 60-day guided Proof-of-Concept (PoC) evaluation via sales/partners |
+| **[CrowdStrike Falcon Identity Protection](https://www.crowdstrike.com/)** | Identity threat detection and response module within the Falcon platform that monitors Active Directory and Entra ID for credential-based attacks. | ~$240B+ Market Cap (~$4B+ Annual Revenue) | Standalone identity protection benchmarked at ~$3.00–$5.00/active identity/month (billed annually); custom enterprise tier add-on | 15-day free trial of the Falcon platform with identity module testing enabled (no credit card required) |
+| **[Zscaler ITDR](https://www.zscaler.com/)** | Identity threat detection, deception, and posture management platform focused on reducing identity risk across hybrid clouds. | ~$31B+ Market Cap (~$3.35B Annual Revenue) | Platform enterprise plans start from ~$72.00–$120.00/user/year; ITDR add-on priced via custom tiered enterprise agreements | Guided Proof-of-Concept (PoC) / free interactive identity assessment via sales (no permanent free tier) |
+| **[SentinelOne Singularity Identity](https://www.sentinelone.com/)** | Identity protection capabilities integrated into the Singularity platform for detecting and responding to identity threats. | ~$8B Market Cap (~$800M+ Annual Revenue) | Starting at ~$229.99/endpoint/year on Singularity Commercial bundle (includes identity threat protection) | 14-day to 30-day Proof-of-Concept (PoC) evaluation trial upon partner/sales request |
+| **[Quest On Demand Recovery](https://www.quest.com/)** | Cloud-based recovery solution for Microsoft Entra ID, hybrid identity, and related workloads. | ~$5.4B Valuation (Acquired by Clearlake Capital; ~$1B Revenue) | Starting at ~£9.18/managed user/year (approx. $11.50/user/year, G-Cloud list price) | 30-day full-featured free trial |
+| **[Druva Identity Workloads Protection](https://www.druva.com/)** | Data protection capabilities focused on identity-related workloads and cloud identity resilience within the Druva Data Security Cloud. | ~$2B+ Valuation (~$200M+ ARR / ~$304M Revenue) | Endpoint/identity protection modules start at ~$4.00–$8.00/user/month; cloud workloads billed consumption-based | 30-day self-service free trial with full platform access (no credit card required) |
+| **[Semperis Directory Services Protector (DSP)](https://www.semperis.com/)** | Specialized platform for Active Directory threat detection, change monitoring, and forest recovery after identity-based attacks. | ~$1B+ Unicorn Valuation (~$100M+ ARR) | Enterprise subscription scaled by protected identity count (quote-based enterprise contract; community editions free) | Free community assessment tools (Purple Knight & Forest Druid) forever; 30-day guided enterprise PoC |
+| **[Silverfort Unified Identity Protection](https://www.silverfort.com/)** | Agentless identity protection platform that secures legacy and modern authentication protocols across hybrid environments. | ~$1B Unicorn Valuation (~$82M+ Revenue / 100%+ YoY ARR Growth) | Starting from ~£7.00/user/year (Silverfort Essentials, G-Cloud list) up to ~£30.00–£45.00/user/year for unified protection tiers | 14-day to 30-day custom Proof-of-Concept (PoC) trial on request |
+| **[Authomize (Delinea)](https://www.delinea.com/)** | Identity threat detection, posture management (ITDR), and Cloud Infrastructure Entitlement Management (CIEM). | Acquired by Delinea ($400M+ ARR / PE-backed by TPG & Thoma Bravo) | Cloud-native platform subscription scaled per managed identity and cloud integration (enterprise quote-based) | Guided Proof-of-Concept (PoC) / free trial evaluation upon direct request |
 
 
 
