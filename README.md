@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup?style=flat-square&color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IAM-Cloud-Identity-Backup/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -79,64 +79,64 @@ Enterprise identity security platforms prioritized and sorted by company capital
 
 Curated open-source projects for identity protection, IAM, attack-path auditing, and directory infrastructure. **Sorted by GitHub stargazers count (descending)**:
 
-1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
+1. **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers)  
    *Widely adopted enterprise open-source Identity and Access Management solution providing SSO, identity brokering, user federation, and granular access tokens via OpenID Connect (OIDC), OAuth 2.0, and SAML 2.0.*
 
-2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
+2. **[Authelia](https://github.com/authelia/authelia)** [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
    *Lightweight, open-source authentication and authorization companion server providing multi-factor authentication (2FA/FIDO2 WebAuthn/Duo) and single sign-on (SSO) for web portals behind reverse proxies (Nginx, Traefik, Caddy).*
 
-3. **[authentik](https://github.com/goauthentik/authentik)** [![GitHub Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)  
+3. **[authentik](https://github.com/goauthentik/authentik)** [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)  
    *Modern, highly customizable open-source identity provider emphasizing flexible authentication pipelines, user self-service, built-in outpost proxies, and multi-tenant IAM governance.*
 
-4. **[Teleport](https://github.com/gravitational/teleport)** [![GitHub Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)  
+4. **[Teleport](https://github.com/gravitational/teleport)** [![GitHub_Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)  
    *Identity-aware multi-protocol access proxy for infrastructure, SSH servers, Kubernetes clusters, web applications, and databases, replacing static credentials with cryptographically bound short-lived identity certificates.*
 
-5. **[Impacket](https://github.com/fortra/impacket)** [![GitHub Stars](https://img.shields.io/github/stars/fortra/impacket?style=social&color=white)](https://github.com/fortra/impacket/stargazers)  
+5. **[Impacket](https://github.com/fortra/impacket)** [![GitHub_Stars](https://img.shields.io/github/stars/fortra/impacket?style=social&color=white)](https://github.com/fortra/impacket/stargazers)  
    *Essential library of Python classes for interacting with network protocols (SMB, MSRPC, Kerberos, NTLM, LDAP). Indispensable for security auditing, penetration testing, and Active Directory protocol verification.*
 
-6. **[ZITADEL](https://github.com/zitadel/zitadel)** [![GitHub Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
+6. **[ZITADEL](https://github.com/zitadel/zitadel)** [![GitHub_Stars](https://img.shields.io/github/stars/zitadel/zitadel?style=social&color=white)](https://github.com/zitadel/zitadel/stargazers)  
    *Cloud-native "Identity Infrastructure for developers" built in Go, featuring turnkey multi-tenancy, audit logging, B2B organization mapping, and full OpenID Connect / Passkey authentication flows.*
 
-7. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)  
+7. **[Ory Kratos](https://github.com/ory/kratos)** [![GitHub_Stars](https://img.shields.io/github/stars/ory/kratos?style=social&color=white)](https://github.com/ory/kratos/stargazers)  
    *Headless, API-first identity and user management service designed to power cloud-native software architectures, with self-service registration, multi-factor security, and passwordless authentication.*
 
-8. **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
+8. **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
    *General-purpose policy engine that enables unified, context-aware policy enforcement across microservices, Kubernetes pods, cloud IAM roles, and API gateways via declarative Rego code.*
 
-9. **[Dex IdP](https://github.com/dexidp/dex)** [![GitHub Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
+9. **[Dex IdP](https://github.com/dexidp/dex)** [![GitHub_Stars](https://img.shields.io/github/stars/dexidp/dex?style=social&color=white)](https://github.com/dexidp/dex/stargazers)  
    *Pluggable open-source identity broker using OpenID Connect to drive authentication for enterprise apps and Kubernetes clusters against LDAP, SAML, GitHub, and corporate identity providers.*
 
-10. **[Scout Suite](https://github.com/nccgroup/ScoutSuite)** [![GitHub Stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers)  
+10. **[Scout Suite](https://github.com/nccgroup/ScoutSuite)** [![GitHub_Stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers)  
     *Multi-cloud security auditing engine by NCC Group that assesses IAM configurations, cross-account trust boundaries, and credential risks across AWS, Azure, GCP, and Alibaba Cloud.*
 
-11. **[Kanidm](https://github.com/kanidm/kanidm)** [![GitHub Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)  
+11. **[Kanidm](https://github.com/kanidm/kanidm)** [![GitHub_Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers)  
     *Fast, memory-safe identity management and directory server written in Rust, engineered for high security, OAuth 2.0/OIDC integration, RADIUS, PAM, and native WebAuthn passwordless support.*
 
-12. **[Pomerium](https://github.com/pomerium/pomerium)** [![GitHub Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=social&color=white)](https://github.com/pomerium/pomerium/stargazers)  
+12. **[Pomerium](https://github.com/pomerium/pomerium)** [![GitHub_Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=social&color=white)](https://github.com/pomerium/pomerium/stargazers)  
     *Identity-aware reverse proxy and Zero Trust Access gateway that authenticates and authorizes traffic against your identity provider on every request without requiring client VPNs.*
 
-13. **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub Stars](https://img.shields.io/github/stars/cerbos/cerbos?style=social&color=white)](https://github.com/cerbos/cerbos/stargazers)  
+13. **[Cerbos](https://github.com/cerbos/cerbos)** [![GitHub_Stars](https://img.shields.io/github/stars/cerbos/cerbos?style=social&color=white)](https://github.com/cerbos/cerbos/stargazers)  
     *Scalable, context-aware authorization layer that decouples role and attribute-based access control (RBAC/ABAC) into centralized, declarative YAML policies.*
 
-14. **[Cartography](https://github.com/cartography-cncf/cartography)** [![GitHub Stars](https://img.shields.io/github/stars/cartography-cncf/cartography?style=social&color=white)](https://github.com/cartography-cncf/cartography/stargazers)  
+14. **[Cartography](https://github.com/cartography-cncf/cartography)** [![GitHub_Stars](https://img.shields.io/github/stars/cartography-cncf/cartography?style=social&color=white)](https://github.com/cartography-cncf/cartography/stargazers)  
     *Python-based graph mapper that pulls infrastructure assets, IAM roles, users, and permissions into a Neo4j graph database to uncover dangerous identity blast radiuses across AWS, GCP, and Okta.*
 
-15. **[Certipy](https://github.com/ly4k/Certipy)** [![GitHub Stars](https://img.shields.io/github/stars/ly4k/Certipy?style=social&color=white)](https://github.com/ly4k/Certipy/stargazers)  
+15. **[Certipy](https://github.com/ly4k/Certipy)** [![GitHub_Stars](https://img.shields.io/github/stars/ly4k/Certipy?style=social&color=white)](https://github.com/ly4k/Certipy/stargazers)  
     *Specialized Python toolkit for enumerating and abusing Active Directory Certificate Services (AD CS) misconfigurations and vulnerable certificate templates.*
 
-16. **[BloodHound Community Edition](https://github.com/SpecterOps/BloodHound)** [![GitHub Stars](https://img.shields.io/github/stars/SpecterOps/BloodHound?style=social&color=white)](https://github.com/SpecterOps/BloodHound/stargazers)  
+16. **[BloodHound Community Edition](https://github.com/SpecterOps/BloodHound)** [![GitHub_Stars](https://img.shields.io/github/stars/SpecterOps/BloodHound?style=social&color=white)](https://github.com/SpecterOps/BloodHound/stargazers)  
     *Gold standard for mapping Active Directory and Microsoft Entra ID relationships into a graph to visually discover hidden attack paths leading to Domain Admin and Tier 0 control planes.*
 
-17. **[Cloudsplaining](https://github.com/salesforce/cloudsplaining)** [![GitHub Stars](https://img.shields.io/github/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers)  
+17. **[Cloudsplaining](https://github.com/salesforce/cloudsplaining)** [![GitHub_Stars](https://img.shields.io/github/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers)  
     *AWS IAM security assessment tool by Salesforce that identifies permission creep, overly permissive Wildcard actions, and privilege escalation vulnerabilities in IAM policies.*
 
-18. **[Adalanche](https://github.com/lkarlslund/Adalanche)** [![GitHub Stars](https://img.shields.io/github/stars/lkarlslund/Adalanche?style=social&color=white)](https://github.com/lkarlslund/Adalanche/stargazers)  
+18. **[Adalanche](https://github.com/lkarlslund/Adalanche)** [![GitHub_Stars](https://img.shields.io/github/stars/lkarlslund/Adalanche?style=social&color=white)](https://github.com/lkarlslund/Adalanche/stargazers)  
     *Active Directory and Microsoft Entra ID ACL visualizer that calculates effective permissions and immediate attack paths across users, security groups, and domain assets.*
 
-19. **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)  
+19. **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub_Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers)  
     *Integrated security information management solution for Linux/Unix networks combining 389 Directory Server (LDAP), MIT Kerberos, Dogtag Certificate System, NTP, and DNS.*
 
-20. **[Samba Active Directory](https://github.com/samba-team/samba)** [![GitHub Stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers)  
+20. **[Samba Active Directory](https://github.com/samba-team/samba)** [![GitHub_Stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers)  
     *Free software re-implementation of the SMB networking protocol and Active Directory Domain Controller (AD DC), powering self-hosted directory forests without Windows Server licensing.*
 
 ---
@@ -180,7 +180,7 @@ flowchart TD
 Contributions are warmly welcomed! Help build the definitive open reference for cloud identity resilience:
 
 1. **Fork the Repository** on GitHub.
-2. **Review Formatting**: Follow the tabular layout for SaaS solutions or include star badges linked to stargazers for open-source tools.
+2. **Review Formatting**: Follow the tabular layout for SaaS solutions or include Stars_Badges linked to stargazers for open-source tools.
 3. **Verify Links & Pricing**: Keep corporate figures, free-trial conditions, and tool descriptions factual and verified.
 4. **Submit a Pull Request** with a descriptive summary of your contribution.
 
